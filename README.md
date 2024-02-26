@@ -2,21 +2,21 @@
 # The Artificial Intelligence Unit
 
 * [Orchestrating](https://github.com/orchestrating)
-  > Continuous Integration, Delivery, Deployment Tools
+  > Open images in aid of continuous integration, delivery, and deployment of machine learning products.
 
 * [Enqueter](https://github.com/enqueter)
   > Amazon Web Sevices Explorations
 
 * [Antecedents](https://github.com/antecedents)
-  > Will host advanced training programmes
+  > Will host advanced data science, machine larning, training programmes
 
 * [The Templates](https://github.com/thetemplates)
-  > Quick start templates.
+  > Quick start modelling templates.
 
 <br>
 
 **Upcoming**
-* Code of Practice Hub <br> Which outlines the team's norms and principles vis-à-vis
+* A code of practice hub, which outlines the team's norms and principles vis-à-vis
     * Continuous Integration, Deployment & Delivery Practices: Applies to all activities/projects.
     * Coding conventions per language
     * GitHub repository naming conventions for machine learning projects; and naming conventions for GitHub Organizations in the case of large projects.

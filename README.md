@@ -1,15 +1,20 @@
+Hubs:
 
+* [enqueter](https://github.com/enqueter)
+  > An exploration of Amazon Web Services.
 
+* [developmentcontainerimages](https://github.com/developmentcontainerimages)
+  > Images for development containers.
 
+* [thetemplates](https://github.com/thetemplates)
+  > Quick start templates.
 
-* [An Exploration of Amazon Web Sevices](https://github.com/enqueter)
-
-* [Images for Development Containers](https://github.com/developmentcontainerimages)
-
-* [Quick Start Templates](https://github.com/thetemplates)
-
-* [Antecedents](https://github.com/antecedents)
+* [antecedents](https://github.com/antecedents)
   > Will host advanced data science, machine learning, training programmes
+
+<br>
+
+Upcoming:
 
 * Code of Practice Hub: Outlines the team's norms and principles vis-à-vis
     * Continuous Integration, Deployment & Delivery Practices: Applies to all activities/projects.

@@ -1,4 +1,4 @@
-Hubs:
+**Hubs:**
 
 * [enqueter](https://github.com/enqueter)
   > An exploration of Amazon Web Services.
@@ -14,23 +14,31 @@ Hubs:
 
 <br>
 
-Upcoming:
 
-* Code of Practice Hub: Outlines the team's norms and principles vis-à-vis
-    * Continuous Integration, Deployment & Delivery Practices: Applies to all activities/projects.
-    * Coding conventions per language
-    * GitHub repository naming conventions for machine learning projects; and naming conventions for GitHub Organizations in the case of large projects.
-
-* Open Artifical Intelligence / Machine Learning Projects
-  * Repositories
-  * Organizations
+<details><summary><b>Upcoming:</b></summary>
+  <br>
+<ul>
+  <li>Code of Practice Hub: Outlines the team's norms and principles vis-à-vis
+    <ul>
+      <li>Continuous Integration, Deployment & Delivery Practices: Applies to all activities/projects.</li>
+      <li>Coding conventions per language</li>
+      <li>GitHub repository naming conventions for machine learning projects; and naming conventions for GitHub Organizations in the case of large projects.</li>
+    </ul>
+  </li>  
+  <li>Open Artifical Intelligence / Machine Learning Projects
+    <ul>
+      <li>Repositories</li>
+      <li>Organizations</li>
+    </ul>
+  </li>
+</ul>
+</details>
 
 <br>
 <br>
 
 <br>
 <br>
-
 
 
 <!--

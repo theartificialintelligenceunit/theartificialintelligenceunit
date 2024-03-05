@@ -10,7 +10,7 @@
   > Quick start templates.
 
 * [antecedents](https://github.com/antecedents)
-  > Will host advanced data science, machine learning, training programmes
+  > Will host advanced machine learning, including deep learning, training programmes.
 
 <br>
 

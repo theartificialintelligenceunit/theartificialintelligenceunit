@@ -14,17 +14,17 @@
 
 <br>
 
+**Pages:**
+
+* [Code of Practice](https://artificialintelligenceunit.github.io/practice)
+  > For the team.  Reference pages, which continuously summarise/outline its operating norms.
+
+<br>
+<br>
 
 <details><summary><b>Upcoming:</b></summary>
   <br>
 <ul>
-  <li>Code of Practice Hub: Outlines the team's norms and principles vis-à-vis
-    <ul>
-      <li>Continuous Integration, Deployment & Delivery Practices: Applies to all activities/projects.</li>
-      <li>Coding conventions per language</li>
-      <li>GitHub repository naming conventions for machine learning projects; and naming conventions for GitHub Organizations in the case of large projects.</li>
-    </ul>
-  </li>  
   <li>Open Artifical Intelligence / Machine Learning Projects
     <ul>
       <li>Repositories</li>

@@ -16,22 +16,19 @@
 
 **Pages:**
 
-* [Code of Practice](https://artificialintelligenceunit.github.io/practice)
-  > For the team.  Reference pages, which continuously summarise/outline its operating norms.
+* [Code of Practice](https://thereferences.github.io/practice) <br>
+  > For the team.  Pages that continuously summarise/outline its operating norms.
 
 <br>
 <br>
 
 <details><summary><b>Upcoming:</b></summary>
   <br>
-<ul>
-  <li>Open Artifical Intelligence / Machine Learning Projects
+  Open Artifical Intelligence / Machine Learning Projects
     <ul>
       <li>Repositories</li>
       <li>Organizations</li>
     </ul>
-  </li>
-</ul>
 </details>
 
 <br>

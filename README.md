@@ -10,11 +10,13 @@
   > Quick start templates.
 
 * [antecedents](https://github.com/antecedents)
-  > Will host advanced machine learning, including deep learning, training programmes.
+  > Will host training programmes.
 
 <br>
 
 **Pages:**
+
+* [Guide Notes for Machine Learning Dependent Business Projects](https://thereferences.github.io/systems/)
 
 * [Code of Practice](https://thereferences.github.io/practice) <br>
   > For the team.  Pages that continuously summarise/outline its operating norms.

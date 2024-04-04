@@ -26,11 +26,7 @@
 
 <details><summary><b>Upcoming:</b></summary>
   <br>
-  Open Artifical Intelligence / Machine Learning Projects
-    <ul>
-      <li>Repositories</li>
-      <li>Organizations</li>
-    </ul>
+  Links to project Organizations or Repositories that can be visible to the public.  Some project will never be visible, and some will not be visible initially.
 </details>
 
 <br>

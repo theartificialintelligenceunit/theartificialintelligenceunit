@@ -20,7 +20,7 @@
 <br>
 <br>
 
-<details><summary><b>Projects</b></summary>
+<details><summary><b>Projects:</b></summary>
   <br>
   Links to a project's Organization (ORG) or Repository (REP); some projects will never be visible, and some will not be visible initially.
   <br>
@@ -30,7 +30,7 @@
     <li>$prml_{2}$: algorithm design risk (REP)</li>
     <li>$prml_{3}$: climate & sustainability (ORG)</li>
   	<li>$prml_{4}$: entity detection & redaction (ORG)</li>
-    <li>$prml_{5}$: abstractive & extractive document summaries</li>
+    <li>$prml_{*}$: abstractive & extractive document summaries</li>
   </ul>
   
 </details>

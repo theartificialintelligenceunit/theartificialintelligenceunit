@@ -1,16 +1,11 @@
 **Hubs:**
 
-* [enqueter](https://github.com/enqueter)
-  > An exploration of Amazon Web Services.
-
-* [developmentcontainerimages](https://github.com/developmentcontainerimages)
+* [thedevelopmentimages](https://github.com/thedevelopmentimages)
   > Images for development containers.
 
 * [thetemplates](https://github.com/thetemplates)
   > Quick start templates.
 
-* [antecedents](https://github.com/antecedents)
-  > Will host training programmes.
 
 <br>
 
@@ -26,7 +21,16 @@
 
 <details><summary><b>Upcoming:</b></summary>
   <br>
-  Links to project Organizations or Repositories that can be visible to the public.  Some project will never be visible, and some will not be visible initially.
+  Links to a project's Organization (ORG) or Repository (REP); some projects will never be visible, and some will not be visible initially.
+  <br>
+  <br>
+  <ul>
+    <li>$prml_{1}$: <a href="https://github.com/enqueter" target="_blank">enqueter</a> (ORG)</li>
+    <li>$prml_{2}$: algorithm design risk (REP)</li>
+    <li>$prml_{3}$: climate & sustainability (ORG)</li>
+  	<li>$prml_{4}$: entity detection & redaction (ORG)</li>
+  </ul>
+  
 </details>
 
 <br>

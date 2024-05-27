@@ -12,6 +12,7 @@
 **Pages:**
 
 * [Guide Notes for Machine Learning Dependent Business Projects](https://thereferences.github.io/systems/)
+  > These pages will be continuously updated/advanced.
 
 * [Code of Practice](https://thereferences.github.io/practice) <br>
   > For the team.  Pages that continuously summarise/outline its operating norms.
@@ -19,7 +20,7 @@
 <br>
 <br>
 
-<details><summary><b>Upcoming:</b></summary>
+<details><summary><b>Projects</b></summary>
   <br>
   Links to a project's Organization (ORG) or Repository (REP); some projects will never be visible, and some will not be visible initially.
   <br>
@@ -29,6 +30,7 @@
     <li>$prml_{2}$: algorithm design risk (REP)</li>
     <li>$prml_{3}$: climate & sustainability (ORG)</li>
   	<li>$prml_{4}$: entity detection & redaction (ORG)</li>
+    <li>$prml_{5}$: abstractive & extractive document summaries</li>
   </ul>
   
 </details>

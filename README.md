@@ -23,10 +23,10 @@
   <br>
   <ul>
     <li>$prml_{1}$: <a href="https://github.com/enqueter" target="_blank">enqueter</a> (ORG)</li>
-    <li>$prml_{2}$: algorithm design risk (REP)</li>
+    <li>$prml_{2}$: algorithm design risk (ORG)</li>
     <li>$prml_{3}$: climate & sustainability (ORG)</li>
   	<li>$prml_{4}$: entities detection & redaction (ORG)</li>
-    <li>$prml_{5}$: abstractive & extractive document summaries (ORG)</li>
+    <li>$prml_{5}$: abstractive text summaries (ORG)</li>
   </ul>
   
 </details>

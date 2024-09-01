@@ -22,11 +22,11 @@
   <br>
   <br>
   <ul>
-    <li>$prml_{1}$: <a href="https://github.com/enqueter" target="_blank">enqueter</a> (ORG)</li>
-    <li>$prml_{2}$: algorithm design risk (ORG)</li>
-    <li>$prml_{3}$: climate & sustainability (ORG)</li>
-  	<li>$prml_{4}$: entities detection & redaction (ORG)</li>
-    <li>$prml_{5}$: abstractive text summaries (ORG)</li>
+    <li>prml<sub>1</sub>: <a href="https://github.com/enqueter" target="_blank">enqueter</a> (ORG)</li>
+    <li>prml<sub>2</sub>: algorithm design risk (ORG)</li>
+    <li>prml<sub>3</sub>: climate & sustainability (ORG)</li>
+  	<li>prml<sub>4</sub>: entities detection & redaction (ORG)</li>
+    <li>prml<sub>5</sub>: abstractive text summaries (ORG)</li>
   </ul>
   
 </details>

@@ -1,6 +1,6 @@
 **Hubs:**
 
-* [thetemplates](https://github.com/thetemplates)
+* [The Templates](https://github.com/thetemplates)
   > Quick start templates.
 
 <br>

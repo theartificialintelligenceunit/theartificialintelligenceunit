@@ -22,7 +22,7 @@
   <br>
   <br>
   <ul>
-    <li>prml<sub>1</sub>: <a href="https://github.com/enqueter" target="_blank">enqueter</a> (ORG)</li>
+    <li>prml<sub>1</sub>: <a href="https://github.com/excomputing" target="_blank">An illustration of Amazon Web Services services</a> (ORG)</li>
     <li>prml<sub>2</sub>: algorithm design risk (ORG)</li>
     <li>prml<sub>3</sub>: climate & sustainability (ORG)</li>
   	<li>prml<sub>4</sub>: entities detection & redaction (ORG)</li>

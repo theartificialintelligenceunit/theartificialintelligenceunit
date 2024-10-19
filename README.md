@@ -23,13 +23,11 @@
   <br>
   <ul>
     <li>Adaptive Named Entity Recognition Architecture (ORG) <br>[October 2024, March 2025]</li>
-    <li><a href="https://github.com/excomputing" target="_blank">An illustration of Amazon Web Services services</a> (ORG) <br>[Jan 2024, March 2024], [Dec 2024]</li>
-    <li>Continuous Forecasting Hub <br>[Feb 2025, $\ldots$) <br>Starting with
-      <ul><li>Emissions</li><li>Emergency Admissions</li><li>Pollutants</li></ul>
-    </li>
-    <li>Algorithm Design Risk (ORG) <br>[Paused.  Resuming Mar 2025]</li>
+    <li><a href="https://github.com/excomputing" target="_blank">An illustration of Amazon Web Services services</a> (ORG) <br>[Jan 2024, March 2024], [Dec 2024, Jan 2025]</li>
+    <li>Continuous Forecasting Hub <br>[Feb 2025, $\ldots$)</li>
+    <li>Algorithm Design Risk (ORG) <br>[Paused.  Resuming 2025]</li>
+    <li>Systematic Mathematical/Ethical/Business Evaluation of Models<br>[Feb 2025, $\ldots$)</li>
   </ul>
-  
 </details>
 
 <br>
